@@ -1,11 +1,12 @@
 {
-  "name": "coreapi-proxy",
+  "name": "ngx-coreapi-proxy",
   "version": "0.0.1",
   "author": "iTraceur",
   "license": "MIT",
   "keywords": [
     "coreapi",
-    "coreapi-proxy"
+    "coreapi-proxy",
+    "ngx-coreapi-proxy"
   ],
   "repository": {
     "type" : "git",

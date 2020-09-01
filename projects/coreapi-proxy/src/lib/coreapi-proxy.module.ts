@@ -23,4 +23,4 @@ import { CoreAPIClient, CoreAPIBaseService, coreAPIFactory } from './coreapi-pro
   exports: [
   ]
 })
-export class CoreapiProxyModule { }
+export class CoreAPIProxyModule { }
