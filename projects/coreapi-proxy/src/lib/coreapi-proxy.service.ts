@@ -2,7 +2,7 @@ import { Injectable, Injector } from '@angular/core';
 import { LocalStorageService } from 'angular-web-storage';
 import { Promise } from 'bluebird';
 import * as coreapi from 'coreapi';
-import { Observable } from 'rxjs/Observable';
+import { Observable } from 'rxjs';
 
 import { ConfigService } from "./config.service";
 import { GlobalState } from './global.state';

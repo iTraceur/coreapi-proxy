@@ -15,7 +15,7 @@
   "peerDependencies": {
     "@angular/common": "^9.1.12",
     "@angular/core": "^9.1.12",
-    "angular-web-storage": "^9.0.0",
+    "angular-web-storage": "^10.0.0",
     "rxjs": "^6.5.5",
     "rxjs-compat": "^6.5.5"
   },

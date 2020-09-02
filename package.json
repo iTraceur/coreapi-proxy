@@ -1,6 +1,6 @@
 {
   "name": "coreapi-proxy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -20,7 +20,6 @@
     "@angular/platform-browser-dynamic": "~9.1.9",
     "@angular/router": "~9.1.9",
     "angular-web-storage": "^9.0.0",
-    "coreapi": "git+https://github.com/iTraceur/coreapi-javascript-client.git",
     "rxjs": "^6.6.2",
     "rxjs-compat": "^6.6.2",
     "tslib": "^1.10.0",
